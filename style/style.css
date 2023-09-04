@@ -12,7 +12,7 @@
 /* HEADER ------------------------------ */
 
 header {
-    background-color: blue;
+    background-color: 	#191970;
     padding: 2rem;
     text-align: center;
     justify-content: space-around;
@@ -47,7 +47,7 @@ main > section > p {
 }
 
 main > section > button {
-    background-color: aqua;
+    background-color: #ADD8E6;
     padding: 1rem;
     margin: 1rem;
     border: 1px #000 solid;
@@ -77,18 +77,20 @@ i {
     font-weight: 400;
 }
 
-/* RODAPÉ ---------------------------------- */
+/* SOBRE MIM ------------------------ */
 
-footer {
-    background-color: blue;
-    color: #FFF;
-    text-align: center;
-    font-weight: 700;
-    padding: 5rem;
-    margin-top: 8rem;
-    border-radius: .5rem;
+#linguagens {
+    padding: 1rem;
+    margin: 2rem;
 }
 
+#sobre-mim-titulo {
+    padding: 5rem;
+}
+
+.img {
+    margin: 2rem;
+}
 
 
 
