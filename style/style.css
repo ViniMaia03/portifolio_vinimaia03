@@ -66,17 +66,6 @@ main > section > button > a {
     font-weight: 400;
 }
 
-#contact {
-    padding: 2rem;
-}
-
-i {
-    display: block;
-    margin: 1rem;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-}
-
 /* SOBRE MIM ------------------------ */
 
 #linguagens {
@@ -91,6 +80,24 @@ i {
 .img {
     margin: 2rem;
 }
+
+/* CONTATOS ------------------ */
+
+#contato {
+    padding: 2rem;
+}
+
+i {
+    padding: 1rem;
+}
+
+i > a {
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
 
 
 
